@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crud-SQLite-Kotlin-HDDR</string>
+    <string name="nombres">Nombres Completos</string>
+    <string name="apellidos">Apellidos Completos</string>
+    <string name="dni">78965412</string>
+    <string name="telefono">987456123</string>
+    <string name="correo">ejemplo@gmail.com</string>
+    <string name="direccion">UCV. Lt. Zn.</string>
+</resources>
